@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 #### About me
-Software Engineer Student, 3rd Year
+Software Engineer Student, 4th Year
 
-Skills: C/C++, Python, Java, JS
+Skills: C/C++, Python, Java, JS, HTML/CSS
 
 - 📫 How to reach me: joaollgiesteira@gmail.com 
 
